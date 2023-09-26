@@ -1,0 +1,19 @@
+{
+  "name": "hypecord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "b4a": "^1.6.4",
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.0.1",
+    "hyper-ipc-secure": "^1.4.23",
+    "hypercore-crypto": "^3.4.0"
+  }
+}
